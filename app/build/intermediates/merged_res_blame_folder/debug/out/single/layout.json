@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.lordkajoc.latihankoneksitmdb.app-mergeDebugResources-34:/layout/item_list_film.xml",
+        "source": "com.lordkajoc.latihankoneksitmdb.app-main-37:/layout/item_list_film.xml"
+    },
+    {
+        "merged": "com.lordkajoc.latihankoneksitmdb.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.lordkajoc.latihankoneksitmdb.app-main-37:/layout/activity_main.xml"
+    }
+]
